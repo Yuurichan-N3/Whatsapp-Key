@@ -1,0 +1,9 @@
+DEFAULT_DELAY = 0.0
+DEFAULT_CORES = 1
+SCREENCAP_PATH = "/sdcard/_wakey.png"
+LOCAL_SCREENCAP = "_wakey.png"
+SCREENSHOT_DIR = "screenshots"
+ADB_DIR = "platform-tools"
+ADB_URL_WIN = "https://dl.google.com/android/repository/platform-tools-latest-windows.zip"
+ADB_URL_LIN = "https://dl.google.com/android/repository/platform-tools-latest-linux.zip"
+ADB_URL_MAC = "https://dl.google.com/android/repository/platform-tools-latest-darwin.zip"

@@ -1,0 +1,9 @@
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.xml
+_wakey.png
+platform-tools/
+screenshots/
+
