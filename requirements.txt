@@ -4,4 +4,4 @@ easyocr==1.7.2
 numpy==2.5.0
 opencv-python==4.13.0.92
 pillow==12.2.0
-yuurisan==1.0.1
+yuurisan==1.0.4
